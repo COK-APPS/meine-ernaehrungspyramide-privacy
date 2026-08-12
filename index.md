@@ -16,4 +16,4 @@ werden ausschließlich lokal auf dem Gerät gespeichert.
 Der Entwickler hat keinen Zugriff auf diese Daten.
 Kontakt:
 Bei Fragen oder Feedback: meine.ernaehrungspyramide@gmail.com
-Stand: Februar 2026
+Stand: Juli 2026
